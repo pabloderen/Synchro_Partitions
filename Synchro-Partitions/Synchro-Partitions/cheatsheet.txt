@@ -1,0 +1,1 @@
+﻿xcopy "$(TargetPath)$(TargetName)" "your-destination-path" /D /y /s /r

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synchro-Partitions", "Synchro-Partitions\Synchro-Partitions.csproj", "{F57C775C-35FB-47D9-BC5D-B7E000A68992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Deploy|Any CPU = Deploy|Any CPU
+		Deploy|x64 = Deploy|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Debug|x64.ActiveCfg = Debug|x64
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Debug|x64.Build.0 = Debug|x64
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Deploy|x64.ActiveCfg = Deploy|x64
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Deploy|x64.Build.0 = Deploy|x64
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Release|x64.ActiveCfg = Release|x64
+		{F57C775C-35FB-47D9-BC5D-B7E000A68992}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
